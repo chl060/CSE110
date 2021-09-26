@@ -9,8 +9,11 @@ cat "I am interested in Programming"
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Going back to Top](#introduction)
+
 [GO TO README FILE](README.md)
+
 ![This is an image](java.png)
+
 Language I can code in
 - Java
 - Python
